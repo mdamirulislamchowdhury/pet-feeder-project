@@ -78,7 +78,7 @@ The goal is to provide **reliable feeding while reducing the need for constant h
 
 ---
 
-## 🤖 AI Contribution
+## 🤖 AI Assistance
 Microsoft Copilot supported the project by:  
 - Refining the algorithm  
 - Suggesting better error handling and alert mechanisms  
