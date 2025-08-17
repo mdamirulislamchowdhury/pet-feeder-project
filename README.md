@@ -60,10 +60,11 @@ The goal is to provide **reliable feeding while reducing the need for constant h
 
 ## ✅ Test Cases & Results
 - Scheduled feeding with pet eating: **Pass**  
-- Scheduled feeding without pet eating: **Pass**  
-- Servo malfunction: **Fail** (needs improvement)  
-- Manual feeding request: **Pass**  
+- Scheduled feeding without pet eating: **Pass**
+- Missed Detection of Small Portions: **Fail** (needs improvement)
+- Manual feeding request: **Pass**
 - Empty food bin: **Pass**  
+- Servo malfunction: **Fail** (needs improvement) 
 
 ---
 
